@@ -2,4 +2,4 @@
 App pour affiche les camouflage Zombies, Multijoueur
 
 
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows" src="https://raw.githubusercontent.com/Le-Melvinhd/Black-Ops-6-CAMO/refs/heads/main/Capture%20d'%C3%A9cran%202024-11-26%20213746.png">
